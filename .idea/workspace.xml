@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gVcYFQGgbil6JvS0dO6P5bsbRC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="" />
+      <created>1598203321171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598203321171</updated>
+      <workItem from="1598203360757" duration="8117000" />
+      <workItem from="1598231351748" duration="4182000" />
+      <workItem from="1598285779202" duration="8000" />
+      <workItem from="1598295135612" duration="4364000" />
+      <workItem from="1598315521169" duration="1515000" />
+      <workItem from="1598382533087" duration="9762000" />
+      <workItem from="1598545283956" duration="8000" />
+      <workItem from="1598730518713" duration="6762000" />
+      <workItem from="1598804400103" duration="10677000" />
+      <workItem from="1598884019264" duration="6829000" />
+      <workItem from="1598903290318" duration="209000" />
+      <workItem from="1598903547256" duration="3310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1598911084426">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598911084426" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1598911763037">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598911763037" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1598392859864">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598392859864" />
+    <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598209109746">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598209109746" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1598823103255">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598823103255" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1598903713876">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598903713876" />
+  </component>
+</project>
