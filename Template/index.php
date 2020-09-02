@@ -149,7 +149,7 @@
                         </ul>
                     </div>
                     <div class="modulo verde-escuro">
-                        <h3>Módulo 05 - Repetição</h3>
+                        <h3>Módulo 06 - Repetição</h3>
                         <ul>
                             <li>
                                 <a href="exercicio.php?dir=repeticao&file=for">Repetições</a>
@@ -175,7 +175,7 @@
                         </ul>
                     </div>
                     <div class="modulo verde-escuro">
-                        <h3>Módulo 05 - Funções</h3>
+                        <h3>Módulo 07 - Funções</h3>
                         <ul>
                             <li>
                                 <a href="exercicio.php?dir=funcoes&file=escopo">Função Escopo</a>
@@ -212,6 +212,14 @@
                             </li>
                             <li>
                                 <a href="exercicio.php?dir=funcoes&file=map_filter">Map/Filter</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo azul-escuro">
+                        <h3>Módulo 08 - Paradigma O.O</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=classe">Classe</a>
                             </li>
                         </ul>
                     </div>
