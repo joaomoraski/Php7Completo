@@ -23,8 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/classe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/construtor_destrutor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/classes_objetos/desafio_data.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/classes_objetos/desafio_data.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +86,7 @@
       <workItem from="1598884019264" duration="6829000" />
       <workItem from="1598903290318" duration="209000" />
       <workItem from="1598903547256" duration="4097000" />
-      <workItem from="1599009564602" duration="520000" />
+      <workItem from="1599009564602" duration="1806000" />
     </task>
     <servers />
   </component>
@@ -104,10 +105,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1599009745246">
+    <state x="418" y="75" key="NewPhpClassDialog" timestamp="1599010225895">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599009745246" />
+    <state x="418" y="75" key="NewPhpClassDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599010225895" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1599010866856">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599010866856" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1598911763037">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
