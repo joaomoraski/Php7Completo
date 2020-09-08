@@ -227,6 +227,39 @@
                             <li>
                                 <a href="exercicio.php?dir=classes_objetos&file=construtor_destrutor">Construtor e destrutor</a>
                             </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=heranca">Herança</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=visibilidade">Visibilidade</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=static">Static</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=interface">Interface</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=classeabstrata">Classe abstrata</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=desafio_erros">desafio_erros</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=final">Final</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=traits01">traits01</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=traits02">Traits 02</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=metodosMagicos">Metodos Magicos</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=classes_objetos&file=Polimorfismo">Polimorfismo</a>
+                            </li>
                         </ul>
                     </div>
                 </nav>
