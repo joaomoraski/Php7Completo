@@ -22,19 +22,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/Polimorfismo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/classeabstrata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/desafio_erros.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/final.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/heranca.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/interface.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/metodosMagicos.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/traits01.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/traits02.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/classes_objetos/visibilidade.php" afterDir="false" />
+    <list default="true" id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="Modulo de orientação objeto">
+      <change afterPath="$PROJECT_DIR$/Template/includes/include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/include_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/include_funcao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/include_once.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/include_once_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/include_return.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/require.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/return_nao_usado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/includes/return_usado.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/namespace/namespace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/namespace/sub_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/namespace/use_as.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/namespace/use_as_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/desafio_intdiv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/error_handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/erros_personalizados.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/try_catch.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/assets/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/Template/assets/css/estilo.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,8 +106,22 @@
       <workItem from="1598903547256" duration="4097000" />
       <workItem from="1599009564602" duration="2014000" />
       <workItem from="1599095228998" duration="34000" />
-      <workItem from="1599500527651" duration="11736000" />
+      <workItem from="1599500527651" duration="12231000" />
+      <workItem from="1599848111382" duration="1231000" />
+      <workItem from="1599936746835" duration="4598000" />
+      <workItem from="1600016701597" duration="3012000" />
+      <workItem from="1600027429899" duration="3290000" />
+      <workItem from="1600035986195" duration="1201000" />
+      <workItem from="1600097824512" duration="2209000" />
     </task>
+    <task id="LOCAL-00001" summary="Modulo de orientação objeto">
+      <created>1599527353031</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599527353031</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +139,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modulo de orientação objeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modulo de orientação objeto" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1599525171043">
       <screen x="0" y="0" width="1366" height="738" />
@@ -131,10 +156,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="418" y="75" key="NewPhpClassDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599010225895" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1599525668816">
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1600030253378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599525668816" />
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1600030253378" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1598911763037">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -143,14 +168,18 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598392859864" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599527291818">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599527383774">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599527291818" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599527383774" />
     <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598209109746">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598209109746" />
+    <state x="1866" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600112768537">
+      <screen x="1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="1866" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1600112768537" />
     <state x="406" y="161" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1599505569630">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -159,9 +188,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599525351473" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599524437047">
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600019681819">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599524437047" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1600019681819" />
   </component>
 </project>

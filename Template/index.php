@@ -262,6 +262,57 @@
                             </li>
                         </ul>
                     </div>
+                    <div class="modulo roxo-escuro">
+                        <h3>Módulo 08 - Includes</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=includes&file=include">Include</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=includes&file=include_funcao">Include Função</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=includes&file=require">Include/Require</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=includes&file=include_return">Include Return</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=includes&file=include_once">Include Once</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo laranja-escuro">
+                        <h3>Módulo 09 - Namespace</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=namespace&file=namespace">Namespace</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=namespace&file=sub_namespaces">sub-Namespace</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=namespace&file=use_as">Use/as</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo verde">
+                        <h3>Módulo 10 - Tratamento de erro</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=tratamento_erro&file=try_catch">Try/Catch</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=tratamento_erro&file=erros_personalizados">Erros personalizados</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=tratamento_erro&file=desafio_intdiv">Desafio intdiv</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=tratamento_erro&file=error_handler">Error Handler</a>
+                            </li>
+                        </ul>
+                    </div>
                 </nav>
             </div>
         </main>
