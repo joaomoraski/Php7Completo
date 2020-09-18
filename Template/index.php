@@ -1,3 +1,17 @@
+<?php
+session_start();
+
+if ($_COOKIE['usuario']){
+    $_SESSION['usuario'] = $_COOKIE['usuario'];
+}
+
+
+if (!$_SESSION['usuario']){
+    header('Location: login.php');
+}
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -12,6 +26,10 @@
             <h2>Índice dos Exercícios</h2>
 
         </header>
+        <nav class="navegacao">
+            <span class="usuario">Usuário: <?= $_SESSION['usuario']; ?></span>
+            <a href="logout.php">Sair</a>
+        </nav>
         <main class="principal">
             <div class="conteudo">
                 <nav class="modulos">
@@ -310,6 +328,89 @@
                             </li>
                             <li>
                                 <a href="exercicio.php?dir=tratamento_erro&file=error_handler">Error Handler</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo vermelho">
+                        <h3>Módulo 11 - Sessão e cookies</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=sessao_cookie&file=basico_sessao">Sessão e Cookie</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=sessao_cookie&file=gerenciando_sessao">Gerenciando sessão</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo azul">
+                        <h3>Módulo 12 - API</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=API&file=data">API data #01</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=API&file=data2">API data #02</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=API&file=escrever_arquivo">escrever_arquivo</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=API&file=lendo_arquivo">lendo_arquivo</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=API&file=upload_arquivo">Upload Arquivo</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=API&file=download_arquivo">Download Arquivo</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo roxo">
+                        <h3>Módulo 13 - Formulário</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=formularios&file=formulario">Formulario</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="modulo laranja">
+                        <h3>Módulo 14 - MYSQL</h3>
+                        <ul>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=cria_banco">Criar Banco</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=criar_tabela">criar_tabela</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=inserir_1">inserir_1</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=consultar">consultar</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=excluir">excluir</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=excluir_2">excluir_2</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=incluir_2">incluir_2</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=alterar">Alterar</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=inserir_pdo">inserir_pdo</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=consulta_pdo">consulta_pdo</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=exclusao">Exclusão</a>
+                            </li>
+                            <li>
+                                <a href="exercicio.php?dir=db&file=alterarpdo">alterarpdo</a>
                             </li>
                         </ul>
                     </div>

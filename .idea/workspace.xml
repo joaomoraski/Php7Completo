@@ -22,26 +22,43 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="Modulo de orientação objeto">
-      <change afterPath="$PROJECT_DIR$/Template/includes/include.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/include_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/include_funcao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/include_once.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/include_once_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/include_return.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/require.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/return_nao_usado.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/includes/return_usado.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/namespace/namespace.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/namespace/sub_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/namespace/use_as.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/namespace/use_as_arquivo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/desafio_intdiv.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/error_handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/erros_personalizados.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Template/tratamento_erro/try_catch.php" afterDir="false" />
+    <list default="true" id="a2878e4a-58d6-45bd-99e7-438fcd686d4d" name="Default Changelist" comment="Modulo de tratamento de erro e include">
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/API/data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/API/data2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/API/download_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/API/escrever_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/API/lendo_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/API/upload_arquivo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/assets/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/alterar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/alterarpdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/conexao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/conexaoPDO.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/consulta_pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/consultar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/cria_banco.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/criar_tabela.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/excluir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/excluir_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/exclusao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/incluir_2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/inserir_1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/db/inserir_pdo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/files/eu carregando o luiz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/files/yasmin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/formularios/formulario.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/sessao_cookie/basico_sessao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/sessao_cookie/basico_sessao_alterar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/sessao_cookie/gerenciando_sessao.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/sessao_cookie/projetoLogin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Template/teste.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/assets/css/estilo.css" beforeDir="false" afterPath="$PROJECT_DIR$/Template/assets/css/estilo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/assets/css/exercicio.css" beforeDir="false" afterPath="$PROJECT_DIR$/Template/assets/css/exercicio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/exercicio.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/exercicio.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Template/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,16 +81,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1gVcYFQGgbil6JvS0dO6P5bsbRC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Template" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -83,6 +106,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Curso\Php7Completo\Template\sessao_cookie" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Curso\Php7Completo\Template" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -112,7 +143,10 @@
       <workItem from="1600016701597" duration="3012000" />
       <workItem from="1600027429899" duration="3290000" />
       <workItem from="1600035986195" duration="1201000" />
-      <workItem from="1600097824512" duration="2209000" />
+      <workItem from="1600097824512" duration="3903000" />
+      <workItem from="1600212408960" duration="610000" />
+      <workItem from="1600279640599" duration="7913000" />
+      <workItem from="1600367776170" duration="12186000" />
     </task>
     <task id="LOCAL-00001" summary="Modulo de orientação objeto">
       <created>1599527353031</created>
@@ -121,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599527353031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modulo de tratamento de erro e include">
+      <created>1600112911935</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600112911935</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,10 +181,20 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Modulo de orientação objeto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modulo de orientação objeto" />
+    <MESSAGE value="Modulo de tratamento de erro e include" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modulo de tratamento de erro e include" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1425" y="204" key="#SQL_Dialects" timestamp="1600396648003">
+      <screen x="1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="1425" y="204" key="#SQL_Dialects/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1600396648003" />
+    <state x="1641" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600396654517">
+      <screen x="1366" y="0" width="1366" height="738" />
+    </state>
+    <state x="1641" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1600396654517" />
     <state x="488" y="84" key="#com.intellij.ide.util.MemberChooser" timestamp="1599525171043">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -156,10 +207,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="418" y="75" key="NewPhpClassDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599010225895" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1600030253378">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="1883" y="288" key="NewPhpFileDialog" timestamp="1600405026140">
+      <screen x="1366" y="0" width="1366" height="738" />
     </state>
     <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1600030253378" />
+    <state x="1883" y="288" key="NewPhpFileDialog/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1600405026140" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1598911763037">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -168,10 +220,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1598392859864" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1599527383774">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="1641" y="97" key="Vcs.Push.Dialog.v2" timestamp="1600112916706">
+      <screen x="1366" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599527383774" />
+    <state x="1641" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1600112916706" />
     <state x="331" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598209109746">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -184,10 +237,11 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="406" y="161" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599505569630" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1599525351473">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="1705" y="165" key="run.anything.popup" timestamp="1600404395438">
+      <screen x="1366" y="0" width="1366" height="738" />
     </state>
     <state x="339" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1024.738@0.0.1366.738" timestamp="1599525351473" />
+    <state x="1705" y="165" key="run.anything.popup/0.0.1366.738/1366.0.1366.738@1366.0.1366.738" timestamp="1600404395438" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1600019681819">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
